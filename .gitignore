@@ -1,0 +1,12 @@
+# Niemals einchecken: enthält den pCloud-Zugang und das Verschlüsselungspasswort
+rclone.conf
+
+# Lokale Daten aus ~/.pcloud-backup, falls sie versehentlich hier landen
+einstellungen.conf
+bin/
+logs/
+jobs/
+zustand/
+inventar/
+
+.DS_Store
